@@ -20,7 +20,7 @@
       📊 <b>Focus:</b> Exploratory Data Analysis (EDA), A/B Testing, & Forecasting
     </p>
     <p align="center">
-      📧 <b>Get in touch:</b> <a href="mailto:orce.eiva@gmail.com">orce.eiva@gmail.com</a>
+      📧 <b>Get in touch:</b> <a href="mailto:eivaorceanalytics@gmail.com">eivaorceanalytics@gmail.com</a>
     </p>
   </samp>
 </div>
