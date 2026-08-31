@@ -6,7 +6,7 @@
 
 <div align="center">
   <samp>
-    <h1 align="center">Hi, I'm Eiva Orce! 👋</h1>
+    <h1 align="center">Hello, I'm Eiva Orce! 👋</h1>
     <p align="center">
       <strong>Senior Data Scientist | Strategic Data Analyst | Data Modeling</strong>
     </p>
@@ -16,7 +16,7 @@
       and translating complex statistical findings into high-impact business strategies.
     </p>
     <p align="center">
-      🛠️ <b>Core Stack:</b> Python, SQL, R, Pandas, Scikit-learn, Databricks, Snowflake, Looker <br>
+      🛠️ <b>Core Stack:</b> Python, SQL, Pandas, Databricks, Snowflake, dbt, Looker, Excel<br>
       📊 <b>Focus:</b> Exploratory Data Analysis (EDA), A/B Testing, & Forecasting
     </p>
     <p align="center">
